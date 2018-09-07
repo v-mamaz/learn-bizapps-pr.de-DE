@@ -27,6 +27,7 @@
   "sync_notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
+    "live",
     "master-sxs"
   ],
   "continue_with_document_error": false,
@@ -45,7 +46,7 @@
       "url": "https://github.com/MicrosoftDocs/learn-bizapps-pr",
       "branch": "live",
       "branch_mapping": {
-        "live": "live",
+        "live": "live",        
         "master": "master"
       }
     }
